@@ -2,8 +2,8 @@
 
 ## category
 
-1. [array](/algorithm/array/README.md)	
-2. [hashtable](/algorithm/hashtable/README.md)	
-3. [linked-list](/algorithm/linkedlist/README.md)
-4. [math](/algorithm/math/README.md)	
+1. [array](/algorithm/array)	
+2. [hashtable](/algorithm/hashtable)	
+3. [linked-list](/algorithm/linkedlist)
+4. [math](/algorithm/math)	
 

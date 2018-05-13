@@ -1,3 +1,3 @@
 # leetcode problem solutions
 
-1. [algorithm](/algorithm/README.md)
+1. [algorithm](/algorithm)
