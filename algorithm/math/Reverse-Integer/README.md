@@ -1,0 +1,1 @@
+对于32位整数的计算，主要考虑溢出问题，因为java中没有无符号数，所以java中一般的计算方式是通过long型来计算，如果计算结果超过Integer.MAX_INT或者小于Integer.MIN_INT,则表示溢出

@@ -1,5 +1,3 @@
-
-
 function maxProfile() int {
 	if prices == nil || len(prices) <= 0 {
 		return 0
