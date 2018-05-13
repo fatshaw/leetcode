@@ -17,4 +17,3 @@
 |array,dp|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|hard|
 |array|[4sum](https://leetcode.com/problems/4sum/description/)|medium|
 |array|[3sum](https://leetcode.com/problems/3sum/)|medium|
-|hashtable|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/description/)|easy|
