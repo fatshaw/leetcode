@@ -1,0 +1,1 @@
+贪心算法，只要price[i+1]>price[i]，则profile+=price[i+1]-price[i]
