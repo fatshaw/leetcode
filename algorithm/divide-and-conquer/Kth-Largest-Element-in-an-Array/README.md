@@ -1,0 +1,1 @@
+类似快排，首先选择pivot，以pivot为中心，将数组分为两部分，左边<pivot，右边>=pivot,判断右边数组元素个数size,如果size == k,则表示pivot就是需要找的元素，如果 size > k, 则继续在右边找第k大元素，如果size < k ，则在左边找第 size - k 大元素。 
