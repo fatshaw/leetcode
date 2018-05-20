@@ -11,3 +11,6 @@
 |dp|[https://leetcode.com/problems/largest-sum-of-averages/description/](https://leetcode.com/problems/largest-sum-of-averages/description/)|Medium|
 |dp|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|Medium|
 |dp|[partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)|medium|
+|dp|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|Medium|
+|dp|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|Medium|
+|dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
