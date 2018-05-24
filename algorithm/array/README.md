@@ -18,3 +18,9 @@
 |array|[4sum](https://leetcode.com/problems/4sum/description/)|medium|
 |array|[3sum](https://leetcode.com/problems/3sum/)|medium|
 |array,dp|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)|Hard|
+|array|[flipping-an-image](https://leetcode.com/problems/flipping-an-image/description/)|easy|
+|array|[array-partition-i](https://leetcode.com/problems/array-partition-i/description/)|easy|
+|array|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|easy|
+|array|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|easy|
+|array|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/description/)|easy|
+|array|[max-area-of-island](https://leetcode.com/problems/max-area-of-island/description/)|easy|
