@@ -24,3 +24,14 @@
 |array|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|easy|
 |array|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/description/)|easy|
 |array|[max-area-of-island](https://leetcode.com/problems/max-area-of-island/description/)|easy|
+|array|[move-zeroes](https://leetcode.com/problems/move-zeroes/description/)|easy|
+|array|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|easy|
+|array|[positions-of-large-groups](https://leetcode.com/problems/positions-of-large-groups/description/)|easy|
+|array|[contains-duplicate](https://leetcode.com/problems/contains-duplicate/description/)|easy|
+|array|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|easy|
+|array|[degree-of-an-array](https://leetcode.com/problems/degree-of-an-array/description/)|easy|
+|array|[image-smoother](https://leetcode.com/problems/image-smoother/description)|easy|
+|array|[missing-number](https://leetcode.com/problems/missing-number/description/)|easy|
+|array|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)|easy|
+|array|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)|easy|
+|array|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|easy|
