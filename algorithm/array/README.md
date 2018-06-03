@@ -35,3 +35,4 @@
 |array|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)|easy|
 |array|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)|easy|
 |array|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|easy|
+|array|[remove-element](https://leetcode.com/problems/remove-element/description/)|easy|
