@@ -36,3 +36,7 @@
 |array|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)|easy|
 |array|[largest-number-at-least-twice-of-others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|easy|
 |array|[remove-element](https://leetcode.com/problems/remove-element/description/)|easy|
+|array|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/description/)|easy|
+|array|[search-insert-position](https://leetcode.com/problems/search-insert-position/description/)|easy|
+|array|[plus-one](https://leetcode.com/problems/plus-one/description/)|easy|
+|array|[find-pivot-index](https://leetcode.com/problems/find-pivot-index/description/)|easy|
