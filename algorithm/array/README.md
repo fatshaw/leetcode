@@ -40,3 +40,6 @@
 |array|[search-insert-position](https://leetcode.com/problems/search-insert-position/description/)|easy|
 |array|[plus-one](https://leetcode.com/problems/plus-one/description/)|easy|
 |array|[find-pivot-index](https://leetcode.com/problems/find-pivot-index/description/)|easy|
+|array|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/)|easy|
+|array|[maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)|easy|
+|array|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|easy|
