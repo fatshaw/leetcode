@@ -43,3 +43,6 @@
 |array|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/)|easy|
 |array|[maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/)|easy|
 |array|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|easy|
+|array|[magic-squares-in-grid](https://leetcode.com/problems/magic-squares-in-grid/description/)|easy|
+|array|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/description/)|easy|
+|array|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/description/)|easy|
