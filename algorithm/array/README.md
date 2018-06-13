@@ -47,8 +47,8 @@
 |array|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/description/)|easy|
 |array|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/description/)|easy|
 |array|[can-place-flowers](https://leetcode.com/problems/can-place-flowers/description/)|easy|
-|array|[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)|easy|
+|array|[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)|easy|like|
 |array|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)|easy|
 |array|[third-maximum-number](https://leetcode.com/problems/third-maximum-number/description/)|easy|
 |array|[rotate-array](https://leetcode.com/problems/rotate-array/description/)|easy|like|
-|array|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/description/)||
+|array|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|like|
