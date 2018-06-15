@@ -52,3 +52,4 @@
 |array|[third-maximum-number](https://leetcode.com/problems/third-maximum-number/description/)|easy|
 |array|[rotate-array](https://leetcode.com/problems/rotate-array/description/)|easy|like|
 |array|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array/description/)|easy|like|
+|array|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/description/)|easy|

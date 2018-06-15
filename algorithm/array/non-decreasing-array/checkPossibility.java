@@ -11,3 +11,10 @@ public boolean checkPossibility(int[] nums) {
   return p == -1 || p == 0 || p == nums.length - 2 ||
       nums[p + 1] > nums[p - 1] || nums[p + 2] > nums[p];
 }
+
+@Test
+public void testcheckPossibility(){
+    assert checkPossibility(new int[]{4,2,3});
+    assert checkPossibility(new int[]{1,2,3});
+    assert !checkPossibility(new int[]{4,2,1});
+}
