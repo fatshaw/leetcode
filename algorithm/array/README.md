@@ -55,3 +55,4 @@
 |array|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/description/)|medium|
 |array|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/description/)|medium|
 |array|[array-nesting](https://leetcode.com/problems/array-nesting/description/)|Medium|
+|array|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|Medium|
