@@ -57,4 +57,8 @@
 |array|[array-nesting](https://leetcode.com/problems/array-nesting/description/)|Medium|
 |array|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)|Medium|
 |array|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/description/)|Medium|
-|array|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|Medium|
+|array|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)|Medium|like|
+|array|[subsets](https://leetcode.com/problems/subsets/description/)|Medium|like|
+|array|[subsets-ii](https://leetcode.com/problems/subsets-ii/description/)|Medium|
+|array|[permutations](https://leetcode.com/problems/permutations/description/)|Medium|
+|array|[permutations-ii](https://leetcode.com/problems/permutations-ii/description/)|Medium|
