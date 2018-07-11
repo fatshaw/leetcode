@@ -65,3 +65,4 @@
 |array|[combination-sum](https://leetcode.com/problems/combination-sum/description/)|Medium|
 |array|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/description/)|Medium|
 |array|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|Medium|
+|array|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/description/)|Medium|
