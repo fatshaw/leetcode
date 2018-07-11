@@ -63,3 +63,5 @@
 |array|[permutations](https://leetcode.com/problems/permutations/description/)|Medium|
 |array|[permutations-ii](https://leetcode.com/problems/permutations-ii/description/)|Medium|
 |array|[combination-sum](https://leetcode.com/problems/combination-sum/description/)|Medium|
+|array|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/description/)|Medium|
+|array|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|Medium|
