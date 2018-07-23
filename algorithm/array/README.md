@@ -67,3 +67,4 @@
 |array|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|Medium|
 |array|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/description/)|Medium|
 |array|[unique-paths](https://leetcode.com/problems/unique-paths/description/)|Medium|
+|array|[rotate-image](https://leetcode.com/problems/rotate-image/description/)|Medium|
