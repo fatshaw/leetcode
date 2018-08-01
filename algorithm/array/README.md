@@ -71,3 +71,4 @@
 |array|[my-calendar-i](https://leetcode.com/problems/my-calendar-i/description/)|Medium|like|
 |array|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/description/)|Medium|
 |array|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|
+|array|[valid-triangle-number](https://leetcode.com/problems/valid-triangle-number/description/)|Medium|
