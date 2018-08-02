@@ -72,4 +72,5 @@
 |array|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/description/)|Medium|
 |array|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/)|Medium|
 |array|[valid-triangle-number](https://leetcode.com/problems/valid-triangle-number/description/)|Medium|
-|array|[maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)|Medium|
+|array|[maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)|Medium|like|
+|array|[number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/)|Medium|like|
