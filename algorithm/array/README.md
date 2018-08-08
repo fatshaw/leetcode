@@ -82,3 +82,4 @@
 |array|[find-peak-element](https://leetcode.com/problems/find-peak-element/description/)|Medium|like|
 |array|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle/description/)|Medium|
 |array|[my-calendar-ii](https://leetcode.com/problems/my-calendar-ii/description/)|Medium|like
+|array|[maximum-swap](https://leetcode.com/problems/maximum-swap/description/)|Medium|
