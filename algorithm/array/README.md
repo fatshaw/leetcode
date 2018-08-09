@@ -86,3 +86,4 @@
 |array|[game-of-life](https://leetcode.com/problems/game-of-life/description/)|Medium|like
 |array|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|Medium|like
 |array|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/description/#)|Medium|like
+|array|[number-of-matching-subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|Medium|
