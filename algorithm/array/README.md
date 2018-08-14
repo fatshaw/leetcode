@@ -89,3 +89,4 @@
 |array|[number-of-matching-subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|Medium|
 |array|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|Medium|like|
 |array|[triangle](https://leetcode.com/problems/triangle/description/)|Medium|like
+|array|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|Medium|like
