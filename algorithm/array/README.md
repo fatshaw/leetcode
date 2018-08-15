@@ -90,3 +90,4 @@
 |array|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|Medium|like|
 |array|[triangle](https://leetcode.com/problems/triangle/description/)|Medium|like
 |array|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|Medium|like
+|array|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|Medium|like|
