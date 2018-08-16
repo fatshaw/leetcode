@@ -93,3 +93,4 @@
 |array|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|Medium|like|
 |array|[global-and-local-inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|Medium|
 |array|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|Medium|like|
+|array|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k/description/)|Medium|like|
