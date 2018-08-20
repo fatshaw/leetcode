@@ -94,3 +94,7 @@
 |array|[global-and-local-inversions](https://leetcode.com/problems/global-and-local-inversions/description/)|Medium|
 |array|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|Medium|like|
 |array|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k/description/)|Medium|like|
+|array|[summary-ranges](https://leetcode.com/problems/summary-ranges/description/)|Medium|
+|array|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|Medium|like|
+|array|[merge-intervals](https://leetcode.com/problems/merge-intervals/description/)|Medium|like|
+|array|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/description/)|Medium|
