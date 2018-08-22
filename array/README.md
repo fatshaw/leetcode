@@ -101,3 +101,5 @@
 |array|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|Medium|like|
 |array|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|Medium|like|
 |array|[3sum-closest](https://leetcode.com/problems/3sum-closest/description/)|Medium|like|
+|array|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|Medium|like|
+|array|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/)|Medium|dislike|
