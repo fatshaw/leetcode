@@ -6,3 +6,4 @@
 |linked-list|[reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/description/)|easy|like|
 |linked-list|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/)|easy|like
 |linked-list|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/description/#)|Medium|like
+|linked-list|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|easy|
