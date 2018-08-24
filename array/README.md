@@ -104,3 +104,4 @@
 |array|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|Medium|like|
 |array|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/)|Medium|dislike|
 |array|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|like|
+|array|[majority-element-ii](https://leetcode.com/problems/majority-element-ii/description/)|Medium|like|
