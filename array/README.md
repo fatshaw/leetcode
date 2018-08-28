@@ -106,3 +106,5 @@
 |array|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|like|
 |array|[majority-element-ii](https://leetcode.com/problems/majority-element-ii/description/)|Medium|like|
 |array|[next-permutation](https://leetcode.com/problems/next-permutation/description/)|Medium|like|
+|array|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/description/)|Medium|dislike
+|array|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|like
