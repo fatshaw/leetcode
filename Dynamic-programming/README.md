@@ -9,6 +9,7 @@
 |dp|[https://leetcode.com/problems/range-sum-query-immutable/description/](https://leetcode.com/problems/range-sum-query-immutable/description/)|easy|
 |dp|[counting-bits](https://leetcode.com/problems/counting-bits/description/)|easy|
 |dp|[stone-game](https://leetcode.com/problems/stone-game/description/)|Medium|like|
+|dp|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|like
 |dp|[maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)|Medium|
 |dp|[https://leetcode.com/problems/largest-sum-of-averages/description/](https://leetcode.com/problems/largest-sum-of-averages/description/)|Medium|
 |dp|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|Medium|
