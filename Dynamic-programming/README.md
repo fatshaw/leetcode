@@ -17,4 +17,6 @@
 |dp|[partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)|medium|
 |dp|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|Medium|
 |dp|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|Medium|
+|dp|[integer-break](https://leetcode.com/problems/integer-break/description/)|Medium|
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
+||||||
