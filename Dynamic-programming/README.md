@@ -19,4 +19,5 @@
 |dp|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|Medium|
 |dp|[integer-break](https://leetcode.com/problems/integer-break/description/)|Medium|
 |dp|[shopping-offers](https://leetcode.com/problems/shopping-offers/description/)|Medium|
+|dp|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|Medium|
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
