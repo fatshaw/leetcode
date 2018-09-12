@@ -18,5 +18,5 @@
 |dp|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|Medium|
 |dp|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|Medium|
 |dp|[integer-break](https://leetcode.com/problems/integer-break/description/)|Medium|
+|dp|[shopping-offers](https://leetcode.com/problems/shopping-offers/description/)|Medium|
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
-||||||
