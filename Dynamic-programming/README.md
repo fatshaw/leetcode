@@ -20,4 +20,5 @@
 |dp|[integer-break](https://leetcode.com/problems/integer-break/description/)|Medium|
 |dp|[shopping-offers](https://leetcode.com/problems/shopping-offers/description/)|Medium|
 |dp|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|Medium|
+|dp|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
