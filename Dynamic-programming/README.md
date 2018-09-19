@@ -22,4 +22,5 @@
 |dp|[count-numbers-with-unique-digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|Medium|
 |dp|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard/description/)|Medium|
 |dp|[predict-the-winner](https://leetcode.com/problems/predict-the-winner/description/)|Medium|like
+|dp|[is-subsequence](https://leetcode.com/problems/is-subsequence/description/)|Medium||
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
