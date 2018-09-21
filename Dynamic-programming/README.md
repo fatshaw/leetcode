@@ -24,4 +24,5 @@
 |dp|[predict-the-winner](https://leetcode.com/problems/predict-the-winner/description/)|Medium|like
 |dp|[is-subsequence](https://leetcode.com/problems/is-subsequence/description/)|Medium|
 |dp|[delete-and-earn](https://leetcode.com/problems/delete-and-earn/description/)|Medium|like|
+|dp|[target-sum](https://leetcode.com/problems/target-sum/description/)|Medium|
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
