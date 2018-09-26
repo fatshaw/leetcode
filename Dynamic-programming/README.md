@@ -25,4 +25,5 @@
 |dp|[is-subsequence](https://leetcode.com/problems/is-subsequence/description/)|Medium|
 |dp|[delete-and-earn](https://leetcode.com/problems/delete-and-earn/description/)|Medium|like|
 |dp|[target-sum](https://leetcode.com/problems/target-sum/description/)|Medium|
+|dp|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|Medium|like
 |dp|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|Hard|
