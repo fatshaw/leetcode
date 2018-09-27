@@ -2,12 +2,12 @@
 
 ## category
 
-1. [array](/algorithm/array)	
-2. [hashtable](/algorithm/hashtable)	
-3. [linked-list](/algorithm/linkedlist)
-4. [math](/algorithm/math)	
-5. [string](/algorithm/string)
-6. [divide-and-conquer](/algorithm/divide-and-conquer)
-7. [dynamic programming](/algorithm/Dynamic-programming)	
-7. [tree](/algorithm/tree)	
+1. [array](/array)	
+2. [hashtable](/hashtable)	
+3. [linked-list](/linkedlist)
+4. [math](/math)	
+5. [string](/string)
+6. [divide-and-conquer](/divide-and-conquer)
+7. [dynamic programming](/Dynamic-programming)	
+7. [tree](/tree)	
 
