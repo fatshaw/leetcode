@@ -12,7 +12,7 @@
 |array|[majority-element](majorityElement)|easy|like|
 |array|[Find All Numbers Disappeared in an Array](FindAllNumbersDisappearInAnArray)|easy|like|
 |array|[find-all-duplicates-in-an-array](find-all-duplicates-in-an-array)|medium|like|
-|array,dp|[Best Time to Buy and Sell Stock](Best Time to Buy and Sell Stock)|easy|like|
+|array,dp|[Best Time to Buy and Sell Stock](Best-Time-to-Buy-and-Sell-Stock)|easy|like|
 |array,dp|[best-time-to-buy-and-sell-stock-ii](best-time-to-buy-and-sell-stock-ii)|easy|
 |array,dp|[best-time-to-buy-and-sell-stock-iii](best-time-to-buy-and-sell-stock-iii)|hard|
 |array|[4sum](4sum)|medium|
