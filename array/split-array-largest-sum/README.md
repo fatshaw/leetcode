@@ -1,3 +1,4 @@
+https://leetcode.com/problems/split-array-largest-sum/description/  
 将数组分隔为连续的m段,使得每一段的和的最大值最小
 1. 每一段和的范围一定属于[max(nums),sum(nums)]
 2. 所以本题可以分解为两道题目：
