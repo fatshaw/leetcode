@@ -1,3 +1,4 @@
+https://leetcode.com/problems/predict-the-winner/description/  
 dp[i][j]表示选手A在nums[i] ~ nums[j]中相对选手B获取到比分差值，则dp[i][j] = max(nums[i] - dp[i+1][j] , nums[j] - dp[i][j-1])，对于dp[i][i] = nums[i]
 时间O(n^2),空间O(n^2)
 

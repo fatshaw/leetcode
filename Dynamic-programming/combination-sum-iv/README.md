@@ -1,3 +1,4 @@
+https://leetcode.com/problems/combination-sum-iv/description/  
 组合问题，从一个集合nums中选择一组数字，和为target。dp[i]表示从集合中选择和为i的组合个数，则dp[n] = sum(dp[x]) where x = n - nums[i] for nums[i] <= n
 
 ## 思考

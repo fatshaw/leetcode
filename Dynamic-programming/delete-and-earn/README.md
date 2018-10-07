@@ -1,3 +1,4 @@
+https://leetcode.com/problems/delete-and-earn/description/  
 类似house rob, 将数组按1-10000进行排列，相邻的不能同时获取。用两个变量take,skip表示十分实用当前元素和不使用当前元素。dp公式为:  
 take[i] = skip[i-1]+ i * count[i]
 skip[i] = max(task[i-1],skip[i-1])

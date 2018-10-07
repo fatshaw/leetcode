@@ -1,4 +1,4 @@
-子序列问题，有点类似LCS，LCS是两个字符串求最长子序列。本题是最长回文子序列，即自己左边和右边比。
+https://leetcode.com/problems/longest-palindromic-subsequence/description/  子序列问题，有点类似LCS，LCS是两个字符串求最长子序列。本题是最长回文子序列，即自己左边和右边比。
 假设dp[i][j]表示i,j最长回文子序列，则dp[i][j] = dp[i+1][j-1] + 2，if s[i] == s[j]。否则dp[i][j] = max(dp[i+1][j],dp[i][j-1])
 
 思考总结：

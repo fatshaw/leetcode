@@ -1,3 +1,4 @@
+https://leetcode.com/problems/longest-palindromic-substring/description/  
 manacher算法  
 首先将数组元素个数变为奇数，通过插入在每个元素的左右插入#，因为如果是奇数个元素，是的回文的中心左右半径一定相同，不用考虑偶数问题。  
 比较简单的方式是以i为中心，向两边扩展，找回文，记录最长的回文。时间复杂度为O(n^2)  

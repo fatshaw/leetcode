@@ -1,3 +1,4 @@
+https://leetcode.com/problems/count-numbers-with-unique-digits/description/  
 ``` 
 n位数
 1位数unique=10
