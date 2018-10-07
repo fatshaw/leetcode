@@ -1,3 +1,4 @@
+https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/  
 dp问题
 dp[i]表示以A[i]结尾的满足条件的子数组个数，则  
 如果A[i] < L，则A[i]可以和以A[i-1]结尾的子数组合并，则dp[i] = dp[i-1]  

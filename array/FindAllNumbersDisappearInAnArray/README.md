@@ -1,1 +1,2 @@
+https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/  
 比较讨巧，因为题目限定了Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array)，所以可以通过原数组来记录某个数字是否出现，如果出现，将nums[i]设为nums[i]*-1，然后找到nums[i] 大于0的即可。

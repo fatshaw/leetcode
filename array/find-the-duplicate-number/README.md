@@ -1,3 +1,4 @@
+https://leetcode.com/problems/find-the-duplicate-number/description/  
 n+1个数，取值范围是1-n，所以并且有一个数是重复的。  
 如果按照next=num[cur]的方式遍历数组，则会出现环，因为有一个数是重复的，会出现两次  
 所以题目可以退化为在一个链表中找到环的入口，即Floyd's Tortoise and Hare问题  

@@ -1,1 +1,2 @@
-时间段合并，每一段由[start，end]组成，按start排序，然后对于每一段interval，如果last.end < current.start则表示当前current和之前所有段不想交，可以直接加入结果。如果current.start<last.end，则可以和之前一段合并, 上一段的end是当前段的end和上一段end的较大的值： last.end=max(last.end,current.end)
+https://leetcode.com/problems/merge-intervals/description/  
+时间段合并，每一段由[start，end]组成，按start排序，然后对于每一段interval，如果last.end < current.start则表示当前current和之前所有段不想交，可以直接加入结果。如果current.start < last.end，则可以和之前一段合并, 上一段的end是当前段的end和上一段end的较大的值： last.end=max(last.end,current.end)

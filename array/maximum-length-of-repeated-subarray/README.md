@@ -1,1 +1,2 @@
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/  
 类似于LCS，但是不同的是需要连续的子数组，LCS不用连续，所以设dp[i][j]表示以A[i]和B[j]开始的数组的最长连续子数组，则dp[i][j] = dp[i+1][j+1] + 1 if A[i] == B[j], 如果A[i] !== B[j], 则dp[i][j] = 0（该处是和LCS不同的地方，LCS是如果A[i] !== B[j]，则dp[i][j] = max(dp[i+1][j],dp[i][j+1]), 因为LCS是可以不联系的，只要相同即可）

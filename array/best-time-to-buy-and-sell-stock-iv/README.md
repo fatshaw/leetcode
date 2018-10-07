@@ -1,3 +1,4 @@
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/  
 ```
 DP problem, prof[r][i] is the max profile with up to r transactions before time i.
 prof[r][i] = max(prof[r][i-1], max(price[i] - price[j] + prof[r-1][j]) for 0<=j<i ) 

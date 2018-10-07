@@ -1,3 +1,4 @@
+https://leetcode.com/problems/majority-element/description/  
 找到超过半数的元素m，则将集合分为两类A,B，A表示超过一半以上的元素，B是其他，随机找任意两个数a,b，有几种情况：  
 1. a,b都属于A
 2. a,b都属于B

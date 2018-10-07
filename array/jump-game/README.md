@@ -1,3 +1,4 @@
+https://leetcode.com/problems/jump-game/  
 1. dp bottom-up方法  
 dp[i]表示从i开始是否可以到达数组最后一个元素。则dp[i] = dp[i+k] for k = 1 ~ nums[i]，即下标为i元素开始是否可以到达数组尾部是看i+1~i+nums[i]这几个元素是否可以到达数组底部。
 

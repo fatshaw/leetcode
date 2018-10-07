@@ -1,1 +1,2 @@
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/  
 和上题类似，不同是有相同元素。如果nums[l] == nums[mid]，这个时候如果target < nums[l]，则l=m+1，因为[nums[l],nums[mid]]之间的数一定大于等于nums[l]，如果target > nums[l]，则不确定，可能出现在mid的左边也可能右边，所以只能l向右移动一位
