@@ -1,3 +1,4 @@
+// 二分法
 func mySqrt(x int) int {
 	l := 0
 	r := x + 1
@@ -13,3 +14,13 @@ func mySqrt(x int) int {
 	}
 	return l
 }
+
+// Newton‘s method
+func mySqrt(x int) int {
+	g := x
+	for g*g > x {
+		g = (g + x/g) / 2
+	}
+	return g
+}
+
