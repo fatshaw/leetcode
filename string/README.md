@@ -1,6 +1,6 @@
 # leetcode 
 
-## math
+## string
 | category  | problem | difficulty | like | 
 | ------------- | ------------- | ------------- | ---------|
 |string|[reverse-string](https://leetcode.com/problems/reverse-string/description/)|easy|

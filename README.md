@@ -9,5 +9,5 @@
 5. [string](/string)
 6. [divide-and-conquer](/divide-and-conquer)
 7. [dynamic programming](/Dynamic-programming)	
-7. [tree](/tree)	
-
+8. [tree](/tree)	
+9. [binary-search](/binary-search)
