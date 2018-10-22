@@ -10,4 +10,7 @@
 |two-pointers|[palindrome-linked-list](palindrome-linked-list)|easy|
 |two-pointers|[implement-strstr](implement-strstr)|easy|
 |two-pointers|[valid-palindrome](valid-palindrome)|easy|
-|two-pointers|[partition-labels](partition-labels)|Medium|
+|two-pointers|[shortest-distance-to-a-character](shortest-distance-to-a-character)|easy|
+|two-pointers|[push-dominoes](push-dominoes)|Medium|like|
+|two-pointers|[partition-labels](partition-labels)|Medium|like|
+|two-pointers|[longest-word-in-dictionary-through-deleting](longest-word-in-dictionary-through-deleting)|Medium|
