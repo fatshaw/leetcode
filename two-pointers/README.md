@@ -14,3 +14,4 @@
 |two-pointers|[push-dominoes](push-dominoes)|Medium|like|
 |two-pointers|[partition-labels](partition-labels)|Medium|like|
 |two-pointers|[longest-word-in-dictionary-through-deleting](longest-word-in-dictionary-through-deleting)|Medium|
+|two-pointers|[boats-to-save-people](boats-to-save-people)|Medium|like|
