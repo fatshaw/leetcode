@@ -29,3 +29,4 @@
 |dp|[unique-binary-search-trees](unique-binary-search-trees)|Medium|like
 |dp|[combination-sum-iv](combination-sum-iv)|Medium|like|
 |dp|[longest-valid-parentheses](longest-valid-parentheses)|Hard|
+|dp|[edit-distance](edit-distance)|Hard|like|
