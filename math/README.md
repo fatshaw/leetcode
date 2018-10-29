@@ -8,3 +8,4 @@
 |math|[divide-two-integers](https://leetcode.com/problems/divide-two-integers/description/)|medium|
 |math|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)|medium|
 |math|[count-primes](https://leetcode.com/problems/count-primes/description/)|easy|like|
+|math|[linked-list-random-node](linked-list-random-node)|medium|like
