@@ -16,3 +16,4 @@
 |two-pointers|[longest-word-in-dictionary-through-deleting](longest-word-in-dictionary-through-deleting)|Medium|
 |two-pointers|[boats-to-save-people](boats-to-save-people)|Medium|like|
 |two-pointers|[fruit-into-baskets](fruit-into-baskets)|Medium|
+|two-pointers|[permutation-in-string](permutation-in-string)|Medium|
