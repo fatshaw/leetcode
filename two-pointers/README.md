@@ -17,3 +17,4 @@
 |two-pointers|[boats-to-save-people](boats-to-save-people)|Medium|like|
 |two-pointers|[fruit-into-baskets](fruit-into-baskets)|Medium|
 |two-pointers|[permutation-in-string](permutation-in-string)|Medium|
+|two-pointers|[partition-list](partition-list)|Medium|like|
