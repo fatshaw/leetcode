@@ -18,3 +18,5 @@
 |two-pointers|[fruit-into-baskets](fruit-into-baskets)|Medium|
 |two-pointers|[permutation-in-string](permutation-in-string)|Medium|
 |two-pointers|[partition-list](partition-list)|Medium|like|
+|two-pointers|[remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list)|Medium|like
+|two-pointers|[most-profit-assigning-work](most-profit-assigning-work)|Medium|like|
