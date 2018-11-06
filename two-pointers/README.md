@@ -21,3 +21,5 @@
 |two-pointers|[remove-nth-node-from-end-of-list](remove-nth-node-from-end-of-list)|Medium|like
 |two-pointers|[most-profit-assigning-work](most-profit-assigning-work)|Medium|like|
 |two-pointers|[longest-mountain-in-array](longest-mountain-in-array)|Medium|like
+|two-pointers|[binary-subarrays-with-sum](binary-subarrays-with-sum)|Medium|like
+|two-pointers|[rotate-list](rotate-list)|Medium|like
