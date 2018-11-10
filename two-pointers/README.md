@@ -23,3 +23,4 @@
 |two-pointers|[longest-mountain-in-array](longest-mountain-in-array)|Medium|like
 |two-pointers|[binary-subarrays-with-sum](binary-subarrays-with-sum)|Medium|like
 |two-pointers|[rotate-list](rotate-list)|Medium|like
+|two-pointers|[longest-substring-without-repeating-characters](longest-substring-without-repeating-characters)|Medium|like
