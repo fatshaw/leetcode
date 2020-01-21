@@ -11,3 +11,9 @@
 7. [dynamic programming](/Dynamic-programming)	
 8. [tree](/tree)	
 9. [binary-search](/binary-search)
+
+
+## Reference
+- [Leetcode](https://leetcode.com)
+- [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/)
+- [leetcode题解](https://github.com/azl397985856/leetcode)
